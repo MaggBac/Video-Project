@@ -1,0 +1,16 @@
+body {
+    background:
+    linear-gradient(
+      rgba(146, 137, 153, 0.83), 
+      rgba(215, 142, 77, 0.555)
+    ),
+    url(https://cdn.pixabay.com/photo/2020/08/07/11/57/raindrops-5470467_960_720.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
